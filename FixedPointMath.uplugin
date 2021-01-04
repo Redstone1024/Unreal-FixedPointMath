@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Fixed Point Math",
+	"Description": "",
+	"Category": "Math",
+	"CreatedBy": "_Redstone_c_",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FixedPointMath",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
